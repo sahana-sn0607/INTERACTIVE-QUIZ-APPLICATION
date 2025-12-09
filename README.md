@@ -19,3 +19,5 @@ Frontend developer portfolios, coding interviews (JS/DOM skills), educational pl
 
 #*OUTPUT*
 
+<img width="1920" height="1031" alt="Image" src="https://github.com/user-attachments/assets/684a9119-4b19-473c-8b0b-0aab4123559c" />
+
